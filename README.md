@@ -72,6 +72,6 @@ __SCAN__ :
 <p align="center">
 <a href="https://www.noob-hackers.com/"><img title="IP-LOCATOR" src="https://user-images.githubusercontent.com/79193898/108190567-07d5dd00-710a-11eb-9eaa-08c76de002e4.JPG"></a>
 </p>
-## WARNING : 
 
+## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
