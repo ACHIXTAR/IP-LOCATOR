@@ -58,10 +58,6 @@ IP-LOCATOR is a simply python script, which can be used to Ip lookup and to get 
 * `ls`
 * `python3 ip-locator.py`
 ```
-
-Hurray... you got his location with some more information
-
-```
 ## USAGE OPTIONS :
 
 __SCAN__ :
