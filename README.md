@@ -58,7 +58,9 @@ IP-LOCATOR is a simply python script, which can be used to Ip lookup and to get 
 * `ls`
 * `python3 ip-locator.py`
 ```
-Now Paste The Victim Ip Which You Want To Track ```
+Now Paste The Victim Ip Which You Want To Track 
+
+```
 ## USAGE OPTIONS :
 
 __SCAN__ :
