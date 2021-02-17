@@ -71,7 +71,7 @@ __SCAN__ :
 
 <br>
 <p align="center">
-<a href="https://www.noob-hackers.com/"><img src="<a href="https://www.noob-hackers.com/"><img title="IP-LOCATOR" src="https://user-images.githubusercontent.com/79193898/108190567-07d5dd00-710a-11eb-9eaa-08c76de002e4.JPG"></a>
+src="https://user-images.githubusercontent.com/79193898/108190567-07d5dd00-710a-11eb-9eaa-08c76de002e4.JPG"></a>
 </p>
 
 
