@@ -2,7 +2,7 @@
 <a href="https://www.noob-hackers.com/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://www.noob-hackers.com/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
+<a href="https://www.noob-hackers.com/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-IP-LOCATOR-green.svg"></a>
 <a href="https://www.noob-hackers.com/"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://www.noob-hackers.com/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -16,7 +16,6 @@
 <a href="https://github.com/ACHIXTAR"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/ACHIXTAR"><img title="Followers" src="https://img.shields.io/github/followers/ACHIXTAR?color=blue&style=flat-square"></a>
 <a href="https://github.com/ACHIXTAR"><img title="Stars" src="https://img.shields.io/github/stars/ACHIXTAR/IP-LOCATOR?color=red&style=flat-square"></a>
-<a href="https://github.com/ACHIXTAR"><img title="Forks" src="https://img.shields.io/github/forks//IP-LOCATOR?color=red&style=flat-square"></a>
 <a href="https://github.com/ACHIXTAR"><img title="Watching" src="https://img.shields.io/github/watchers/ACHIXTAR/IP-LOCATOR?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/ACHIXTAR"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
@@ -44,12 +43,12 @@ IP-LOCATOR is a simply python script, which can be used to Ip lookup and to get 
 * [+] Ip lookup
 * [+] Easy for Beginners !
 
-## INSTALLATION [Termux] :
+## INSTALLATION :
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `apt-get install python -y`
-* `apt-get install python2 -y`
+* `apt-get install python3 -y`
 * `apt-get install git -y`
 * `pip install lolcat`
 * `pip install requests`
@@ -57,22 +56,22 @@ IP-LOCATOR is a simply python script, which can be used to Ip lookup and to get 
 * `ls`
 * `cd IP-LOCATOR`
 * `ls`
-* `python3 IP-LOCATOR.py`
+* `python3 ip-locator.py`
 ```
 
 Hurray... you got his location with some more information
 
 ```
-## USAGE OPTIONS [Termux] :
+## USAGE OPTIONS :
 
 __SCAN__ :
-- From this option you can start tracking ip ocation
+- From this option you can start tracking ip location
 
 ## SCREEN SHOTS [Termux]
 
 <br>
 <p align="center">
-src="https://user-images.githubusercontent.com/79193898/108190567-07d5dd00-710a-11eb-9eaa-08c76de002e4.JPG/>
+src="https://user-images.githubusercontent.com/79193898/108190567-07d5dd00-710a-11eb-9eaa-08c76de002e4.jpg/>
 </p>
 
 
