@@ -53,8 +53,6 @@ IP-LOCATOR is a simply python script, which can be used to Ip lookup and to get 
 * `apt-get install python -y`
 * `apt-get install python3 -y`
 * `apt-get install git -y`
-* `pip install lolcat`
-* `pip install requests`
 * `git clone https://github.com/ACHIXTAR/IP-LOCATOR`
 * `ls`
 * `cd IP-LOCATOR`
